@@ -1,0 +1,14 @@
+
+
+.regLogo{
+    display: flex;
+    justify-content: center;
+}
+
+.regParent{
+    margin-top: 96px;
+}
+
+.aab{
+    color: aliceblue !important;
+}
